@@ -39,6 +39,6 @@ Feel free to check out some of my repositories and projects, and don’t hesitat
 
 ---
 
-⭐️ From [@pivodevat](https://github.com/pivodevat)
+⭐️ From [@pivodevat](https://github.com/OpexHunter)
 
 ![Bear Banner](https://i.imgur.com/ADeDgPT.jpg)
