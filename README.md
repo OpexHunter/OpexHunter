@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ivan Vekhov (@pivodevat)!
 
-![Bear Banner](https://link-to-your-bear-image.com)
+![Bear Banner](https://imgur.com/ADeDgPT)
 
 ## About Me
 
