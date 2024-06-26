@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ivan Vekhov (@pivodevat)!
 
-![Bear Banner](https://i.imgur.com/ADeDgPT.jpg)
-
 ## About Me
 
 Hello! I'm Ivan Vekhov, a 19-year-old student currently studying at RTU MIREA, in my second year. I'm an enthusiastic and passionate developer with a strong focus on plugin and mod development for Minecraft, as well as various automation tools.
@@ -42,3 +40,5 @@ Feel free to check out some of my repositories and projects, and don’t hesitat
 ---
 
 ⭐️ From [@pivodevat](https://github.com/pivodevat)
+
+![Bear Banner](https://i.imgur.com/ADeDgPT.jpg)
